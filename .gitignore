@@ -101,3 +101,9 @@ xcuserdata/
 *.xcscmblueprint
 
 .DS_Store
+
+
+Binaries/
+Build/
+Intermediate/
+Saved/
