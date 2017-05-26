@@ -110,4 +110,7 @@ Section_03/BuildingEscape/Intermediate
 Section_03/BuildingEscape/Saved
 *_BuiltData.uasset
 ##*/Content/StarterContent/*
-Section_03/BuildingEscape/Content/StarterContent
+Section_03/BuildingEscape/Content/StarterContent/Textures
+Section_03/BuildingEscape/Content/StarterContent/HDRI
+**/xcuserdata
+contents.xcworkspacedata
